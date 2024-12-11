@@ -7,7 +7,7 @@
 
 ![DerykCruz's GitHub stats](https://github-readme-stats.vercel.app/api?username=DerykCruz&show_icons=true&theme=dracula) <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DerykCruz)](https://github.com/anuraghazra/github-readme-stats)
 ###  Técnologias que eu utilizo
 <div style="display: inline_block"><br/>
 <img align="center" alt= "kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
