@@ -1,6 +1,6 @@
 
 
-### Olá! Eu sou Deryk Cruz! 🤙🏽
+### Olá! Eu sou Deryk Cruz!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/deryk-cruz-76409721b/)
